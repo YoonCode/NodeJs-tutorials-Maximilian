@@ -1,0 +1,21 @@
+{
+  "name": "maximilian-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoonCode/NodeJs-tutorials-Maximilian.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoonCode/NodeJs-tutorials-Maximilian/issues"
+  },
+  "homepage": "https://github.com/YoonCode/NodeJs-tutorials-Maximilian#readme"
+}
