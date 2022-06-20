@@ -4,8 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "node app.js"
+    "start": "nodemon app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/YoonCode/NodeJs-tutorials-Maximilian/issues"
   },
-  "homepage": "https://github.com/YoonCode/NodeJs-tutorials-Maximilian#readme"
+  "homepage": "https://github.com/YoonCode/NodeJs-tutorials-Maximilian#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
