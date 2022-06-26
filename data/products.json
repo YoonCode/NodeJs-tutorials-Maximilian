@@ -1,1 +1,14 @@
-[{"title":"A Book","description":"This is an awesome book!","price":"19"},{"title":"A Book2","description":"This is a great book.","price":"19.99"}]
+[
+  {
+    "id": 123456,
+    "title": "A Book",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "id": 567890,
+    "title": "A Book2",
+    "description": "This is a great book.",
+    "price": "19.99"
+  }
+]
